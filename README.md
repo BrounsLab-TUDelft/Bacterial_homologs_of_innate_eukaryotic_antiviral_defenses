@@ -10,7 +10,7 @@ Provided data includes:
 - The phylogenetic tree made by Parsnp from the 542 Pseudomonas aeruginosa genomes that were analysed in this study
 - All HMM profiles of the newly discovered defense systems in this study
 - All experimental lab data, including EOPs of the systems and mutant systems, growth curves, and PFUs over time (phage propagation in liquid).
-- Lastly, all the HMM profiles that were created from the eukaryotic homologs. These HMM profiles will be made public upon publication (sadly not the bioarxiv).
+- Lastly, all the HMM profiles that were created from the eukaryotic homologs. These HMM profiles will be made public upon publication (sadly not the bioRxiv).
 
 For more information, feel free to reach out to:
 stanbrouns@gmail.com
