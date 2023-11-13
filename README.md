@@ -1,7 +1,7 @@
 Here you will find the additional supplementary data that belongs to "Bacterial homologs of innate eukaryotic antiviral defenses provide phage protection"
 
 Provided data includes:
-- The raw PPanGGOLiN results of the 542 Pseudomonas aeruginosa genomes that were analysed in this study
+- The raw PPanGGOLiN results of the 542 Pseudomonas aeruginosa genomes that were analysed in this study. This data will be made public upon publication (sadly not the bioRxiv).
 - The supplementary tables, these include a list of all literature-associated functional domains with eukaryotic antiviral responses, 
   all information regarding the modules identified by PPanGGOLiN, the presence of the new defense systems within prokaryotes, 
   the abundance of the defense systems in Pseudomonas aeruginosa, and the primers and plasmids used in this study.
