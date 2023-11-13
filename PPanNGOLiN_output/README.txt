@@ -1,2 +1,1 @@
-
-HMM profiles of the eukaryotic antiviral defenses will be made public upon publication.
+The output of PPaNGOLiN will be made public upon publication.
