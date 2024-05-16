@@ -9,6 +9,7 @@ Provided data includes:
 - All identified defense systems by Padloc, defense-finder, a custom search for detocs, and the HMM profiles provided by Gao et al. (2019).
 - The phylogenetic tree made by Parsnp from the 542 Pseudomonas aeruginosa genomes that were analysed in this study
 - All HMM profiles of the newly discovered defense systems in this study
+- All predicted alphafold models and output
 - All experimental lab data, including EOPs of the systems and mutant systems, growth curves, and PFUs over time (phage propagation in liquid).
 - Lastly, all the HMM profiles that were created from the eukaryotic homologs. These HMM profiles will be made public upon publication (sadly not the bioRxiv).
 
